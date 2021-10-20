@@ -1,0 +1,92 @@
+CONNECTED(00000003)
+write W BLOCK
+---
+Certificate chain
+ 0 s:/C=FR/postalCode=69002/ST=Auvergne-Rh\xC3\xB4ne-Alpes/L=LYON/street=18 RUE DE LA REPUBLIQUE/O=CREDIT LYONNAIS SA/CN=lcl.fr
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Organization Validation Secure Server CA
+ 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Organization Validation Secure Server CA
+   i:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+ 2 s:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=Comodo CA Limited/CN=AAA Certificate Services
+ 3 s:/C=GB/ST=Greater Manchester/L=Salford/O=Comodo CA Limited/CN=AAA Certificate Services
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=Comodo CA Limited/CN=AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGnTCCBYWgAwIBAgIRAKtq2CdnZf5R3ENJOkx7YiMwDQYJKoZIhvcNAQELBQAw
+gZUxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE9MDsGA1UE
+AxM0U2VjdGlnbyBSU0EgT3JnYW5pemF0aW9uIFZhbGlkYXRpb24gU2VjdXJlIFNl
+cnZlciBDQTAeFw0yMDEyMjgwMDAwMDBaFw0yMTEyMjgyMzU5NTlaMIGcMQswCQYD
+VQQGEwJGUjEOMAwGA1UEERMFNjkwMDIxHjAcBgNVBAgMFUF1dmVyZ25lLVJow7Ru
+ZS1BbHBlczENMAsGA1UEBxMETFlPTjEgMB4GA1UECRMXMTggUlVFIERFIExBIFJF
+UFVCTElRVUUxGzAZBgNVBAoTEkNSRURJVCBMWU9OTkFJUyBTQTEPMA0GA1UEAxMG
+bGNsLmZyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwWquvcQxcMCj
+fwYsgPbgZd4RVMhwtow3ONvViwyo7jO4CNebZT8esC5pP1GFtqp2opZMr6Wczi+y
+hNJ2AfCBUKC23bAGiAzoDG9Z6HtOqbCiqb1Je9GmW03ZuygF6RxZHl5oi2nsQ5lS
+Z8Oas+NGi/3aE6khRTQfR8mV8cL3iAfgVlfsOD6rx0SZNWz4WwQgAermd1cTRXwc
+r0VHjhbK3yHmlLbLy7PUbya/kTiAsWh+eHTGvE11bp9orHuxT+W6crRcyLhdmG+L
++5NgAJsxqJgFcjrjqAzrm5A/IBXIdUhCQRG55wTI/Y73ZMIrn1ujzHBT6YNP6RsB
+1BifDSYhDQIDAQABo4IC3TCCAtkwHwYDVR0jBBgwFoAUF9nWJSdn+THCSUPZMDZE
+jGypT+swHQYDVR0OBBYEFFaqIMSmjSSD8+3YrrvVJ+xdvehxMA4GA1UdDwEB/wQE
+AwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjBKBgNVHSAEQzBBMDUGDCsGAQQBsjEBAgEDBDAlMCMGCCsGAQUFBwIBFhdodHRw
+czovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwBAgIwWgYDVR0fBFMwUTBPoE2gS4ZJ
+aHR0cDovL2NybC5zZWN0aWdvLmNvbS9TZWN0aWdvUlNBT3JnYW5pemF0aW9uVmFs
+aWRhdGlvblNlY3VyZVNlcnZlckNBLmNybDCBigYIKwYBBQUHAQEEfjB8MFUGCCsG
+AQUFBzAChklodHRwOi8vY3J0LnNlY3RpZ28uY29tL1NlY3RpZ29SU0FPcmdhbml6
+YXRpb25WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3J0MCMGCCsGAQUFBzABhhdo
+dHRwOi8vb2NzcC5zZWN0aWdvLmNvbTCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2
+AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABdqnJeuAAAAQDAEcw
+RQIgKXmTtjxBxXmHs8EGk7J8Ac6VCuz835dEhEIoyKVOBUwCIQD8HUwQDFhPyB7F
+WMC5z8E4vqk4V70s8gbSfLhmX8lzvQB2AJQgvB6O1Y1siHMfgosiLA3R2k1ebE+U
+PWHbTi9YTaLCAAABdqnJewgAAAQDAEcwRQIgPWhrC1+Ali+KZAHmMZD7OAr/D6Ss
+IgjfcXEFYwaPgp4CIQDoD3fP+1/g0jFimDaHUJAvIp8zW2YFGCWO58Yat1KokzAd
+BgNVHREEFjAUggZsY2wuZnKCCnd3dy5sY2wuZnIwDQYJKoZIhvcNAQELBQADggEB
+ADD9yBZhuMUeoUFXFByf4Lx1OlxbNMy9dZaPriiCWh0gXUDdlaPERAixlmbfSzFa
+9teP6Du+qqsDJV2+iWmIbWZC+w6hTPy6VmqaVlsWqLZBRc8wCGfXJM3UPS/rM8eX
+DiXALh2P9gRQDVAFVErqAB7MEmtoLGaG/cAbGs74FyP7HrX0KmJgioSxx9mj4D5h
+jxa9Y5/9gg+/uuvA9UVpkhLRiLMGAMRWu8UJ6W45FRLBfu1SkrDKfP0RslQ4B6Pa
+e/fer3FdxDUQlep3dXSiGE8XqFO1yp38vZBpPI/9KVs11S2jZNthi/frQ4acNqaF
+aoDzU1daoCCwnlfiGgIBKAU=
+-----END CERTIFICATE-----
+subject=/C=FR/postalCode=69002/ST=Auvergne-Rh\xC3\xB4ne-Alpes/L=LYON/street=18 RUE DE LA REPUBLIQUE/O=CREDIT LYONNAIS SA/CN=lcl.fr
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Organization Validation Secure Server CA
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 6448 bytes and written 413 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 59D63CBC8E71EF72C4D547C5A4730CCBF351B549E0D299BE282E6A4D6D21D242
+    Session-ID-ctx: 
+    Master-Key: 13552B18F3702BBE439E2E4BE139C39ACA722E29E864883B19B95D4DB82730765C948CA21F2E198EED6B9C78AA837B46
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - e3 f4 05 22 2d 0e f7 ae-a8 83 a9 a2 ac 37 50 f9   ..."-........7P.
+    0010 - a0 90 df ba 9b 5b bb 14-40 8d eb e8 f2 6a 9a e3   .....[..@....j..
+    0020 - 72 2e f6 2d af a7 13 2c-ec 21 31 5c d5 82 00 7b   r..-...,.!1\...{
+    0030 - 1c 01 09 03 93 b6 f1 ea-4a 6f 1b 05 46 8d 72 eb   ........Jo..F.r.
+    0040 - 0a 02 9b 54 66 47 a7 f9-a4 55 a5 86 4e c5 4a 88   ...TfG...U..N.J.
+    0050 - f4 6c 13 87 f0 42 df 20-c5 ca 15 32 2b 8f 21 65   .l...B. ...2+.!e
+    0060 - 52 cd f1 b8 44 d2 8a f3-9a 70 6e 24 2a 27 3a 7f   R...D....pn$*':.
+    0070 - a6 0e 29 da 3e f9 49 2a-ce c8 bf 68 20 09 eb 03   ..).>.I*...h ...
+    0080 - 15 fd dc d8 af 55 1c 1b-27 f4 b2 88 45 d3 09 46   .....U..'...E..F
+    0090 - 5c a3 2c b5 c1 f3 4f 6b-75 19 81 74 f2 c5 cb c6   \.,...Oku..t....
+    00a0 - 42 d9 36 0a 0f 15 55 0b-83 a6 d2 95 82 00 18 92   B.6...U.........
+    00b0 - fb c1 a8 fd 45 69 62 d2-5d 6c 11 02 5c f9 43 5d   ....Eib.]l..\.C]
+
+    Start Time: 1634730632
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---
+closed
